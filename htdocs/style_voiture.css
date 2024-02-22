@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #recherche-form {
+    margin: 20px auto;
+    width: 50%;
+  }
+  
+  #recherche-input {
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+  }
+  
+  .vehicules {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .vehicule {
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 300px;
+    text-align: center;
+  }
+  
+  .vehicule h2 {
+    margin-top: 0;
+  }
+  
+  .vehicule img {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,72 @@
+/* Couleurs */
+body {
+    background-color: rgb(196, 114, 114); /* Fond rouge */
+    color: #ffffff; /* Texte blanc */
+  }
+  
+  /* Formulaire */
+  .form-control {
+    .form-control {
+        background-color: #ffffff;
+        border-color: #e6e6e6;
+        width: 50%; /* Réduit la largeur des cases à 50% */
+      }
+      
+  }
+  
+  .form-label {
+    color: #ffffff; /* Labels blancs */
+  }
+  
+  /* Centrage */
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  .formulaire {
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  /* Logo */
+  .logo {
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .container {
+      padding: 20px;
+    }
+  
+    .formulaire {
+      flex-direction: column;
+    }
+  
+    .form-control {
+      margin-bottom: 10px;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .container {
+      padding: 50px;
+    }
+  
+    .formulaire {
+      flex-direction: row;
+    }
+  
+    .form-control {
+      margin-right: 10px;
+    }
+  }
+  
