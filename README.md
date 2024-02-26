@@ -55,5 +55,5 @@ Une fois Xampp installé, activer apache et MySQL
 puis rentrer cette adresse pour vous connecter : http://localhost:8085/
 _______________________________________________________________
 
-Pour le moment je n'ai pas le site en ligne, il y a un délai d'attente pour la création du seveur, je le mettrai en ligne une fois le serveur en ligne.
+Voici l'adresse du site :  http://ventedl.rf.gd/index.php
 
