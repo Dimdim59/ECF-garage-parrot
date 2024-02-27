@@ -57,3 +57,5 @@ _______________________________________________________________
 
 Voici l'adresse du site :  http://ventedl.rf.gd/index.php
 
+(après vérification, je suis bloqué avec le vpn de l'ordi, je fais les changes au plus vite )
+
